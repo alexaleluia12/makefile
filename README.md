@@ -1,4 +1,7 @@
+```text
+
 # makefile simples para projetos médios de http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+
 
 ## usa estrutura
 - build   (arquivos .o)
@@ -28,7 +31,11 @@ vai gerar varias outras regras e o nome do arquivo vai ser passado corretamento 
 
 -I => path onde estão arquivos .h
 
+```
+
 ## compilar rodar
 ```make```
 
 ```./bin/hellomake```
+
+
